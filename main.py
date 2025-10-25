@@ -80,7 +80,7 @@ with col1:
             st.write(f"- {recommendation}")
 
     st.markdown("---")
-    st.caption("Copyright 2025 • HummingBird AI • Developed by Asad")
+    st.caption("Copyright 2025 • [HummingBird AI](/) • Developed by [Asad](https://muhammad-asad.netlify.app)")
 
 # -----------------------------
 # Footer Styling
